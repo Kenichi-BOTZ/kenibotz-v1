@@ -22,12 +22,12 @@ global.APIKeys = {
 }
 
 //—————「 Setting Owner 」—————//
-global.owner = ['62895388375000','62895388375000','62895388375000'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
+global.owner = ['62895388375000','6285893400504','62895388375000'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.premium = ['62895388375000'] //ubah jadi nomor mu, note tanda ' gausah di hapus!
 global.ownernomer = '62895388375000' //ubah jadi nomor mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'KENICHI' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Owner KeniBotz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = 'KeniBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'Kenichi' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
@@ -83,15 +83,15 @@ global.sp = '⭔'
 //terserah mau ubah apa nggak, note : tanda ' gausah di hapus!
 global.mess = {
 success: '_Done._',
-admin: '_Fitur Khusus Admin Group!_',
-botAdmin: '_Bot Harus Menjadi Admin Terlebih Dahulu!_',
-owner: '_Fitur Khusus Owner Bot_',
-group: '_Fitur Digunakan Hanya Untuk Group!_',
-private: '_Fitur Digunakan Hanya Untuk Private Chat!_',
-bot: '_Fitur Khusus Pengguna Nomor Bot_',
-wait: '_Sedang Di Proses..._',
-error: '_Fitur Sedang Error!_',
-endLimit: '_Limit Harian Anda Telah Habis, Limit Akan Direset Setiap Jam 12_',
+admin: '_Fitur Ini Khusus Admin Group Ya Sayang <3_',
+botAdmin: '_Bot Harus Menjadi Admin Dulu Yank <3_',
+owner: '_Fitur Ini Khusus Untuk Owner Kenichi Dan Mahesa_',
+group: '_Fitur Ini Digunakan Hanya Untuk Group Kak♥️_',
+private: '_Fitur Digunakan Hanya Untuk Private Chat Jadi Chat Ke Whatsapp Aku Ya <3_',
+bot: '_Fitur Khusus Pengguna Nomor Bot Ini Doang_',
+wait: '_Sedang Di Proses Ya Kak..._',
+error: '_Fitur Sedang Error Kak Maaf Ya :(_',
+endLimit: '_Limit Harian Kamu Telah Habis, Limit Akan Direset Setiap Jam 12_',
 }
 
 //—————「 Batas Akhir 」—————//
